@@ -1,3 +1,5 @@
+# Задача "Рассылка писем"
+
 def send_email (message, recipient, *, sender="university.help@gmail.com"):
 
     index1 = sender.find("@")
